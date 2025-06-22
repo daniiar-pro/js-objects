@@ -2,7 +2,7 @@
 1.	Clone the repository
 
 ``` 
-git clone https://github.com/daniiar-pro/fn-lab.git
+git clone https://github.com/daniiar-pro/js-objects.git
 ```
 
 
